@@ -1,4 +1,4 @@
-name: Build and deploy Node.js app to Azure Web App - demochatbottvonment
+name: Demo Pipeline
 
 on:
   push:
